@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Opencart" verbose="1">
+	<test name="package_tests">
+		<packages>
+			<package name="com.qshore.testcases.sample"></package>
+		</packages>
+	</test>
+</suite>

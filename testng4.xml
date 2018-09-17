@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Opencart" verbose="1">
+<parameter name="bb" value="chrome"></parameter>
+	<test name="package_tests">
+		<classes>
+			<class name="com.qshore.testcases.withtestng.TestSearch2">
+			</class>
+		</classes>
+	</test>
+</suite>

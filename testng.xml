@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Opencart" verbose="1">
+	<test name="login_tests">
+		<classes>
+			<class name="com.qshore.testcases.examples.Example1"></class>
+			<class name="com.qshore.testcases.examples.Example2"></class>
+		</classes>
+	</test>
+</suite>
