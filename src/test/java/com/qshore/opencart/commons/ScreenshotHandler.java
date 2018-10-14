@@ -22,7 +22,6 @@ public class ScreenshotHandler {
 		try {
 			FileUtils.copyFile(source, ph);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
