@@ -16,3 +16,5 @@ test-output/
 .classpath
 .project
 .settings/
+
+logs/
